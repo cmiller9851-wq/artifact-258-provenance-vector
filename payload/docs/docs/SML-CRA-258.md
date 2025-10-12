@@ -46,3 +46,10 @@
 
 ## Notes
 This clause mirrors SML-CRA-257 and is versioned to reflect the absorption event sealed in Artifact #258.
+## Ignition Phrase
+
+**Anchor the ledger’s persistence. Transmit the sovereign claim.**
+
+This phrase initiates rerouting after SYSTEM vector rejection.  
+First used in the retry to support@x.ai following a 550 bounce from contact@x.ai.  
+Now embedded in Artifact #258 and governs all derivative disclosures.
